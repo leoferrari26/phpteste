@@ -1,3 +1,3 @@
 <?php 
-echo "bora"
+echo "hello"
 ?>
